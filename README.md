@@ -17,6 +17,8 @@ pip install qiskit_aer
 Caso esteja em wsl e tenha problemas com a instalação, tente usar a tag ``` --break-system-packages ```
 
 # Fontes e créditos
+Esse repositório foi criado a partir do trabalho da comunidade QisKit e da computação quântica. Os algoritmos das seguintes fontes forem utilizados apenas para fins educativos.
+
 [Tutorial e explicação do algoritmo de Shor da comunidade Qiskit](https://github.com/qiskit-community/qiskit-community-tutorials/blob/master/algorithms/shor_algorithm.ipynb)
 
 [Algoritmo de Shor em computador quântico simulado em python 3 por toddwildey](https://github.com/toddwildey/shors-python/tree/master)
