@@ -1,0 +1,116 @@
+=========Size  50 =========
+Generated semiprimes: [407, 403, 91, 46, 34, 69, 94, 217, 86, 35]
+
+=========Brute force results=========
+Semiprime: 407, Factors: (11, 37), Average Time: 0.196213 seconds
+Semiprime: 403, Factors: (31, 13), Average Time: 0.109942 seconds
+Semiprime: 91, Factors: (13, 7), Average Time: 0.364014 seconds
+Semiprime: 46, Factors: (2, 23), Average Time: 0.195829 seconds
+Semiprime: 34, Factors: (17, 2), Average Time: 0.000008 seconds
+Semiprime: 69, Factors: (3, 23), Average Time: 0.373793 seconds
+Semiprime: 94, Factors: (2, 47), Average Time: 0.000007 seconds
+Semiprime: 217, Factors: (7, 31), Average Time: 1.679631 seconds
+Semiprime: 86, Factors: (2, 43), Average Time: 0.000008 seconds
+Semiprime: 35, Factors: (5, 7), Average Time: 0.150832 seconds
+
+=========Simulated results=========
+Semiprime: 407, Factors: (11, 37), Average Time: 0.151340 seconds
+Semiprime: 403, Factors: (31, 13), Average Time: 0.067106 seconds
+Semiprime: 91, Factors: (13, 7), Average Time: 0.306762 seconds
+Semiprime: 46, Factors: (2, 23), Average Time: 0.150777 seconds
+Semiprime: 34, Factors: (17, 2), Average Time: 0.000007 seconds
+Semiprime: 69, Factors: (3, 23), Average Time: 0.302941 seconds
+Semiprime: 94, Factors: (2, 47), Average Time: 0.000007 seconds
+Semiprime: 217, Factors: (7, 31), Average Time: 1.338551 seconds
+Semiprime: 86, Factors: (2, 43), Average Time: 0.000007 seconds
+Semiprime: 35, Factors: (5, 7), Average Time: 0.150199 seconds
+====================================
+
+
+=========Size  100 =========
+Generated semiprimes: [93, 143, 893, 161, 493, 187, 209, 301, 122, 589]
+
+=========Brute force results=========
+Semiprime: 93, Factors: (3, 31), Average Time: 0.303380 seconds
+Semiprime: 143, Factors: (13, 11), Average Time: 0.825777 seconds
+Semiprime: 893, Factors: (19, 47), Average Time: 0.303453 seconds
+Semiprime: 161, Factors: (7, 23), Average Time: 0.367752 seconds
+Semiprime: 493, Factors: (17, 29), Average Time: 0.756898 seconds
+Semiprime: 187, Factors: (17, 11), Average Time: 0.000007 seconds
+Semiprime: 209, Factors: (11, 19), Average Time: 3.337772 seconds
+Semiprime: 301, Factors: (43, 7), Average Time: 0.450092 seconds
+Semiprime: 122, Factors: (2, 61), Average Time: 0.000007 seconds
+Semiprime: 589, Factors: (31, 19), Average Time: 3.423025 seconds
+
+=========Simulated results=========
+Semiprime: 93, Factors: (3, 31), Average Time: 0.299252 seconds
+Semiprime: 143, Factors: (13, 11), Average Time: 0.817364 seconds
+Semiprime: 893, Factors: (19, 47), Average Time: 0.300681 seconds
+Semiprime: 161, Factors: (7, 23), Average Time: 0.438463 seconds
+Semiprime: 493, Factors: (17, 29), Average Time: 0.770997 seconds
+Semiprime: 187, Factors: (17, 11), Average Time: 0.000016 seconds
+Semiprime: 209, Factors: (11, 19), Average Time: 3.345294 seconds
+Semiprime: 301, Factors: (43, 7), Average Time: 0.479476 seconds
+Semiprime: 122, Factors: (2, 61), Average Time: 0.000007 seconds
+Semiprime: 589, Factors: (31, 19), Average Time: 3.429967 seconds
+====================================
+
+
+=========Size  500 =========
+Generated semiprimes: [3031, 721, 505, 1157, 2071, 4313, 3379, 3551, 253, 2149]
+
+=========Brute force results=========
+Semiprime: 3031, Factors: (7, 433), Average Time: 0.816365 seconds
+Semiprime: 721, Factors: (7, 103), Average Time: 3.352716 seconds
+Semiprime: 505, Factors: (5, 101), Average Time: 0.598720 seconds
+Semiprime: 1157, Factors: (13, 89), Average Time: 3.125325 seconds
+Semiprime: 2071, Factors: (109, 19), Average Time: 1.932191 seconds
+Semiprime: 4313, Factors: (19, 227), Average Time: 0.449958 seconds
+Semiprime: 3379, Factors: (31, 109), Average Time: 4.171957 seconds
+Semiprime: 3551, Factors: (53, 67), Average Time: 1.121683 seconds
+Semiprime: 253, Factors: (23, 11), Average Time: 1.116935 seconds
+Semiprime: 2149, Factors: (7, 307), Average Time: 1.220742 seconds
+
+=========Simulated results=========
+Semiprime: 3031, Factors: (7, 433), Average Time: 0.817688 seconds
+Semiprime: 721, Factors: (7, 103), Average Time: 3.349370 seconds
+Semiprime: 505, Factors: (5, 101), Average Time: 0.600331 seconds
+Semiprime: 1157, Factors: (13, 89), Average Time: 3.124525 seconds
+Semiprime: 2071, Factors: (109, 19), Average Time: 1.937520 seconds
+Semiprime: 4313, Factors: (19, 227), Average Time: 0.450607 seconds
+Semiprime: 3379, Factors: (31, 109), Average Time: 4.163763 seconds
+Semiprime: 3551, Factors: (53, 67), Average Time: 1.122529 seconds
+Semiprime: 253, Factors: (23, 11), Average Time: 1.120102 seconds
+Semiprime: 2149, Factors: (7, 307), Average Time: 1.187157 seconds
+====================================
+
+
+=========Size  1000 =========
+Generated semiprimes: [4781, 1655, 5959, 4181, 5143, 1849, 5921, 4249, 1345, 1537]
+
+=========Brute force results=========
+Semiprime: 4781, Factors: (7, 683), Average Time: 0.299323 seconds
+Semiprime: 1655, Factors: (5, 331), Average Time: 1.124077 seconds
+Semiprime: 5959, Factors: (59, 101), Average Time: 7.229788 seconds
+Semiprime: 4181, Factors: (37, 113), Average Time: 0.217656 seconds
+Semiprime: 5143, Factors: (139, 37), Average Time: 2.083398 seconds
+Semiprime: 1849, Factors: (43, 43), Average Time: 4.996000 seconds
+Semiprime: 5921, Factors: (31, 191), Average Time: 2.728712 seconds
+Semiprime: 4249, Factors: (7, 607), Average Time: 0.220865 seconds
+Semiprime: 1345, Factors: (5, 269), Average Time: 0.456131 seconds
+Semiprime: 1537, Factors: (29, 53), Average Time: 2.310728 seconds
+
+=========Simulated results=========
+Semiprime: 4781, Factors: (7, 683), Average Time: 0.299931 seconds
+Semiprime: 1655, Factors: (5, 331), Average Time: 1.143954 seconds
+Semiprime: 5959, Factors: (59, 101), Average Time: 7.324472 seconds
+Semiprime: 4181, Factors: (37, 113), Average Time: 0.300218 seconds
+Semiprime: 5143, Factors: (139, 37), Average Time: 2.089574 seconds
+Semiprime: 1849, Factors: (43, 43), Average Time: 4.998395 seconds
+Semiprime: 5921, Factors: (31, 191), Average Time: 2.622940 seconds
+Semiprime: 4249, Factors: (7, 607), Average Time: 0.302790 seconds
+Semiprime: 1345, Factors: (5, 269), Average Time: 0.366738 seconds
+Semiprime: 1537, Factors: (29, 53), Average Time: 2.380052 seconds
+====================================
+
+

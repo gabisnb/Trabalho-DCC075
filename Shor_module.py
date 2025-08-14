@@ -76,7 +76,9 @@ def find_period_classical(x, N):
         n += 1
     return n
 
-def shors_breaker(N):
+def shors_breaker(N, seed=None):
+    if(seed is not None):
+        random.seed(seed)
     N = int(N)
     while True:
         a=randint(0,N-1)
@@ -96,7 +98,9 @@ def shors_breaker(N):
                     continue
                 return p,q
             
-def shors_breaker_brute_force(N):
+def shors_breaker_brute_force(N, seed=None):
+    if(seed is not None):
+        random.seed(seed)
     N = int(N)
     while True:
         a=randint(0,N-1)
@@ -133,7 +137,9 @@ def sieve( ): # gera primos usando o algoritmo de Eratosthenes
 def get_primes_sieve(n):
     return list(itertools.takewhile(lambda p: p<n, sieve())) # gera um primo para cada p em range(n)
 
-def get_semiprime(n):
+def get_semiprime(n, seed=None):
+    if(seed is not None):
+        random.seed(seed)
     primes = get_primes_sieve(n) # gera n inteiros primos
     l = len(primes)
     p = primes[random.randrange(l)] # seleciona um primo aleatoriamente
