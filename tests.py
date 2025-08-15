@@ -54,7 +54,7 @@ def test_shor(n, prime_max, n_trials, seed): # This seed is for the random numbe
 
 ### Configuração do teste ################################
 n_numbers = 10
-primes_max_size = [10, 100, 1000, 10000]
+primes_max_size = [50, 100, 500, 1000, 5000, 10000]
 n_tests = 30
 rd_seed = 1637593
 graph_name = "TrueTest_PlotLog"

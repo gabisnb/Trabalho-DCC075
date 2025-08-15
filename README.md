@@ -33,6 +33,8 @@ python3 test.py > nome.txt
 ```
 
 ### Parâmetros do teste
+Os parâmetros que já constam no script são aqueles que foram utilizados para o teste 2. Para a geração dos números primos, foi utilizado o tempo como semente entrópica.
+
 - *n_numbers*: Quantidade de semiprimos gerados para cada tamanho
 - *primes_max_size*: lista de tamanhos dos fatores
 - *n_tests*: número de iterações dos algoritmos para cada número gerado
